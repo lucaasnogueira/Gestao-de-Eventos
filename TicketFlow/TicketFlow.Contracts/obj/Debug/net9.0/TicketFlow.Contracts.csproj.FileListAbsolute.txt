@@ -1,0 +1,11 @@
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\bin\Debug\net9.0\TicketFlow.Contracts.deps.json
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\bin\Debug\net9.0\TicketFlow.Contracts.dll
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\bin\Debug\net9.0\TicketFlow.Contracts.pdb
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\TicketFlow.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\TicketFlow.Contracts.AssemblyInfoInputs.cache
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\TicketFlow.Contracts.AssemblyInfo.cs
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\TicketFlow.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\TicketFlow.Contracts.dll
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\refint\TicketFlow.Contracts.dll
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\TicketFlow.Contracts.pdb
+C:\Users\lucas.silva\Documents\Gestão de Eventos\TicketFlow\TicketFlow.Contracts\obj\Debug\net9.0\ref\TicketFlow.Contracts.dll

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-TicketFlow.WorkerService-89fe4384-264d-440e-a30c-b67dd98191d2</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Npgsql.EntityFrameworkCore.PostgreSQL" Version="13.1.2" />
+    <PackageReference Include="Aspire.StackExchange.Redis" Version="13.1.2" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="9.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TicketFlow.ServiceDefaults\TicketFlow.ServiceDefaults.csproj" />
+    <ProjectReference Include="..\TicketFlow.Contracts\TicketFlow.Contracts.csproj" />
+  </ItemGroup>
+</Project>
